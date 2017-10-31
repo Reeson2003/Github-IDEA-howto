@@ -1,7 +1,9 @@
 для испарвления бага / добавления фичи:
 ---
-- создать issue на github ![github issue](imgs/1.jpg)
-- сделать ветку от master с названием issue![branch](imgs/2.jpg)
+- создать issue на github 
+![github issue](imgs/1.jpg)
+- сделать ветку от master с названием issue
+![branch](imgs/2.jpg)
 ![branch](imgs/3.jpg)
 - сделать в ветке необходимые изменения
 ![code](imgs/4.jpg)
