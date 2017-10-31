@@ -1,7 +1,8 @@
 для испарвления бага / добавления фичи:
 ---
-- создать issue на github
-- сделать ветку от master с названием issue
+- ![создать issue на github](https://github.com/Reeson2003/Github-IDEA-howto/blob/hello_world/imgs/1.jpg)
+- ![сделать ветку от master с названием issue](https://github.com/Reeson2003/Github-IDEA-howto/blob/hello_world/imgs/2.jpg)
+[](https://github.com/Reeson2003/Github-IDEA-howto/blob/hello_world/imgs/3.jpg)
 - сделать в ветке необходимые изменения
 - сделать коммит
 - переключиться на ветку mastter и обновить её
