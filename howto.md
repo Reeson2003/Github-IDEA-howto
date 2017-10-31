@@ -11,4 +11,6 @@
 ![merge](imgs/5.jpg)
 - сделать пуш на github
 - сделать pull request в ветку master
+![pull](imgs/6.jpg)
+![pull](imgs/7.jpg)
 - после подтверждения pull request можно удалить ветку и закрыть issue
